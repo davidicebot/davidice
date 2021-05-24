@@ -1,0 +1,2 @@
+web: python jabl2749.py
+worker: python jabl2749.py
